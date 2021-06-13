@@ -28,3 +28,5 @@ https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/spatia
 https://github.com/Azure-Samples/cognitive-services-sample-data-files/blob/master/ComputerVision/spatial-analysis/DeploymentManifest.json
 
 https://github.com/Azure-Samples/cognitive-services-spatial-analysis/blob/main/deployment.json
+
+https://github.com/Azure-Samples/cognitive-services-spatial-analysis
