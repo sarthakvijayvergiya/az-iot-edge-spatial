@@ -14,7 +14,7 @@ sudo systemctl restart iotedge
 Deployment of Module..
 
 
-az iot edge set-modules --hub-name "az-ava-hub" --device-id "mySpatialDevice" --content DeploymentSampleManifest.json --subscription "3c68937c-b5af-44f0-800b-41449297f272"
+az iot edge set-modules --hub-name "az-ava-hub" --device-id "mySpatialDevice" --content DeploymentSampleManifest.json --subscription "xxxxxxx"
 
 
 https://www.nvidia.com/content/dam/en-zz/Solutions/Data-Center/tesla-product-literature/Tesla-K80-BoardSpec-07317-001-v05.pdf
