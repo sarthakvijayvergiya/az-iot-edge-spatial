@@ -1,4 +1,5 @@
-Edge Device-- (Virtual Machine)
+# IoT Edge Cognitive Services Spatial Analysis
+<!-- Edge Device-- (Virtual Machine)
     Create Virtual Machine GPU
     Drive Installation
     Install IoT Edge runtime
@@ -29,4 +30,4 @@ https://github.com/Azure-Samples/cognitive-services-sample-data-files/blob/maste
 
 https://github.com/Azure-Samples/cognitive-services-spatial-analysis/blob/main/deployment.json
 
-https://github.com/Azure-Samples/cognitive-services-spatial-analysis
+https://github.com/Azure-Samples/cognitive-services-spatial-analysis -->
